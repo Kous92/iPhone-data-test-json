@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "iPhone",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone.jpg",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone-original-colors.jpg",
                 "year": "2007",
@@ -20,7 +20,7 @@
         {
             "id": 2,
             "name": "iPhone 3G",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone3G.jpg",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone3g-colors.jpg",
                 "year": "2008",
@@ -37,7 +37,7 @@
         {
             "id": 3,
             "name": "iPhone 3GS",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone3GS.jpg",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone3g-colors.jpg",
                 "year": "2009",
@@ -54,7 +54,7 @@
         {
             "id": 4,
             "name": "iPhone 4",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone4.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone4-colors.jpg",
                 "year": "2010",
@@ -71,7 +71,7 @@
         {
             "id": 5,
             "name": "iPhone 4s",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone4s.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone4s-colors.jpg",
                 "year": "2011",
@@ -88,7 +88,7 @@
         {
             "id": 6,
             "name": "iPhone 5",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone5.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone5-colors.jpg",
                 "year": "2012",
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "iPhone 5c",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone5c.jpg",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone5c-colors.jpg",
                 "year": "2013",
@@ -122,7 +122,7 @@
         {
             "id": 8,
             "name": "iPhone 5s",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone5s.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone5s-colors.jpg",
                 "year": "2013",
@@ -139,7 +139,7 @@
         {
             "id": 9,
             "name": "iPhone 6",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone6.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone6-colors.jpg",
                 "year": "2014",
@@ -156,7 +156,7 @@
         {
             "id": 10,
             "name": "iPhone 6 Plus",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone6Plus.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone6plus-colors.jpg",
                 "year": "2014",
@@ -173,7 +173,7 @@
         {
             "id": 11,
             "name": "iPhone 6s",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone6s.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-6s-colors.jpg",
                 "year": "2015",
@@ -190,7 +190,7 @@
         {
             "id": 12,
             "name": "iPhone 6s Plus",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone6sPlus.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-6splus-colors.jpg",
                 "year": "2015",
@@ -207,7 +207,7 @@
         {
             "id": 13,
             "name": "iPhone SE (1ère génération)",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhoneSE1.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone_se/iphone-se-colors.jpg",
                 "year": "2016",
@@ -224,7 +224,7 @@
         {
             "id": 14,
             "name": "iPhone 7",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone7.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone7/iphone7-colors.jpg",
                 "year": "2016",
@@ -241,7 +241,7 @@
         {
             "id": 15,
             "name": "iPhone 7 Plus",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone7Plus.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone7plus/iphone7plus-colors.jpg",
                 "year": "2016",
@@ -258,7 +258,7 @@
         {
             "id": 16,
             "name": "iPhone 8",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone8.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone8/iphone-8-colors.jpg",
                 "year": "2017",
@@ -275,7 +275,7 @@
         {
             "id": 17,
             "name": "iPhone 8 Plus",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone8Plus.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone8plus/iphone-8plus-colors.jpg",
                 "year": "2017",
@@ -292,7 +292,7 @@
         {
             "id": 18,
             "name": "iPhone X",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhoneX.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-x-colors.jpg",
                 "year": "2017",
@@ -309,7 +309,7 @@
         {
             "id": 19,
             "name": "iPhone XR",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhoneXR.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-xr/identify-iphone-xr-colors.jpg",
                 "year": "2018",
@@ -326,7 +326,7 @@
         {
             "id": 20,
             "name": "iPhone XS",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhoneXS.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-xs-colors.jpg",
                 "year": "2018",
@@ -343,7 +343,7 @@
         {
             "id": 21,
             "name": "iPhone XS Max",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhoneXSMax.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-xs-max-colors.jpg",
                 "year": "2018",
@@ -360,7 +360,7 @@
         {
             "id": 22,
             "name": "iPhone 11",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone11.jpg",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/identify-iphone-11-colors.jpg",
                 "year": "2019",
@@ -532,7 +532,7 @@
             "name": "iPhone 13 Pro",
             "imageURL": "",
             "details": {
-                "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone12promax/iphone12-pro-max-colors.jpg",
+                "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2022-spring-iphone13-pro-colors.png",
                 "year": "2021",
                 "storageCapacities": ["128 GB", "256 GB", "512 GB", "1 TB"],
                 "chip": {
@@ -549,7 +549,7 @@
             "name": "iPhone 13 Pro Max",
             "imageURL": "",
             "details": {
-                "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone12promax/iphone12-pro-max-colors.jpg",
+                "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2022-spring-iphone13-pro-max-colors.png",
                 "year": "2021",
                 "storageCapacities": ["128 GB", "256 GB", "512 GB", "1 TB"],
                 "chip": {
@@ -580,19 +580,71 @@
         },
         {
             "id": 35,
-            "name": "iPhone 14"
+            "name": "iPhone 14",
+            "imageURL": "",
+            "details": {
+                "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-14-colors.png",
+                "year": "2022",
+                "storageCapacities": ["128 GB", "256 GB", "512 GB"],
+                "chip": {
+                    "name": "Apple A15 Bionic",
+                    "architecture": "64 bits",
+                    "cores": 6,
+                    "ram": "6 GB"
+                },
+                "operatingSystems": ["iOS 16.0", "iOS 16.x (actuel)"]
+            }
         },
         {
             "id": 36,
-            "name": "iPhone 14 Plus"
+            "name": "iPhone 14 Plus",
+            "imageURL": "",
+            "details": {
+                "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-14-plus-colors.png",
+                "year": "2022",
+                "storageCapacities": ["128 GB", "256 GB", "512 GB"],
+                "chip": {
+                    "name": "Apple A15 Bionic",
+                    "architecture": "64 bits",
+                    "cores": 6,
+                    "ram": "6 GB"
+                },
+                "operatingSystems": ["iOS 16.0", "iOS 16.x (actuel)"]
+            }
         },
         {
             "id": 37,
-            "name": "iPhone 14 Pro"
+            "name": "iPhone 14 Pro",
+            "imageURL": "",
+            "details": {
+                "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-14-pro-colors.png",
+                "year": "2022",
+                "storageCapacities": ["128 GB", "256 GB", "512 GB", "1 TB"],
+                "chip": {
+                    "name": "Apple A16 Bionic",
+                    "architecture": "64 bits",
+                    "cores": 6,
+                    "ram": "6 GB"
+                },
+                "operatingSystems": ["iOS 16.0", "iOS 16.x (actuel)"]
+            }
         },
         {
             "id": 38,
-            "name": "iPhone 14 Pro Max"
+            "name": "iPhone 14 Pro Max",
+            "imageURL": "",
+            "details": {
+                "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-14-pro-max-colors.png",
+                "year": "2022",
+                "storageCapacities": ["128 GB", "256 GB", "512 GB", "1 TB"],
+                "chip": {
+                    "name": "Apple A16 Bionic",
+                    "architecture": "64 bits",
+                    "cores": 6,
+                    "ram": "6 GB"
+                },
+                "operatingSystems": ["iOS 16.0", "iOS 16.x (actuel)"]
+            }
         }
     ]
 }
