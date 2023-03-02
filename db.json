@@ -377,7 +377,7 @@
         {
             "id": 23,
             "name": "iPhone 11 Pro",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone11Pro.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/identify-iphone-11pro.jpg",
                 "year": "2019",
@@ -394,7 +394,7 @@
         {
             "id": 24,
             "name": "iPhone 11 Pro Max",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone11ProMax.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/identify-iphone-11pro-max.jpg",
                 "year": "2019",
@@ -428,7 +428,7 @@
         {
             "id": 26,
             "name": "iPhone 12 mini",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone12mini.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2021-iphone12-mini-colors.png",
                 "year": "2020",
@@ -445,7 +445,7 @@
         {
             "id": 27,
             "name": "iPhone 12",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone12.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2021-iphone12-colors.png",
                 "year": "2020",
@@ -462,7 +462,7 @@
         {
             "id": 28,
             "name": "iPhone 12 Pro",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone12Pro.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone12pro/iphone12-pro-colors.jpg",
                 "year": "2020",
@@ -479,7 +479,7 @@
         {
             "id": 29,
             "name": "iPhone 12 Pro Max",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone12ProMax.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone12promax/iphone12-pro-max-colors.jpg",
                 "year": "2020",
@@ -615,7 +615,7 @@
         {
             "id": 37,
             "name": "iPhone 14 Pro",
-            "imageURL": "",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14Pro.png",
             "details": {
                 "fullScreenImageURL": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-14-pro-colors.png",
                 "year": "2022",
