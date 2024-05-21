@@ -649,7 +649,7 @@
         {
             "id": 39,
             "name": "iPhone 15",
-            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14.png",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone15.png",
             "details": {
                 "fullScreenImageURL": "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-color-lineup-230912_big.jpg.large_2x.jpg",
                 "year": "2023",
@@ -666,7 +666,7 @@
         {
             "id": 40,
             "name": "iPhone 15 Plus",
-            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14Plus.png",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone15Plus.png",
             "details": {
                 "fullScreenImageURL": "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-color-lineup-230912_big.jpg.large_2x.jpg",
                 "year": "2023",
@@ -683,7 +683,7 @@
         {
             "id": 41,
             "name": "iPhone 15 Pro",
-            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14Pro.png",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone15Pro.png",
             "details": {
                 "fullScreenImageURL": "https://www.apple.com/v/iphone-15-pro/c/images/specs/hero_iphone_pro_max__bsan8nevcgty_large_2x.jpg",
                 "year": "2023",
@@ -700,7 +700,7 @@
         {
             "id": 42,
             "name": "iPhone 15 Pro Max",
-            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14ProMax.png",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone15ProMax.png",
             "details": {
                 "fullScreenImageURL": "https://www.apple.com/v/iphone-15-pro/c/images/specs/hero_iphone_pro__c9kj8iil656q_large_2x.jpg",
                 "year": "2023",
