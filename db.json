@@ -269,7 +269,7 @@
                     "cores": 6,
                     "ram": "2 GB"
                 },
-                "operatingSystems": ["iOS 11.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 11.0", "iOS 16.7.5"]
             }
         },
         {
@@ -286,7 +286,7 @@
                     "cores": 6,
                     "ram": "3 GB"
                 },
-                "operatingSystems": ["iOS 11.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 11.0", "iOS 16.7.5"]
             }
         },
         {
@@ -303,7 +303,7 @@
                     "cores": 6,
                     "ram": "3 GB"
                 },
-                "operatingSystems": ["iOS 11.0.1", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 11.0.1", "iOS 16.7.5"]
             }
         },
         {
@@ -320,7 +320,7 @@
                     "cores": 6,
                     "ram": "3 GB"
                 },
-                "operatingSystems": ["iOS 12.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 12.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -337,7 +337,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 12.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 12.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -354,7 +354,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 12.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 12.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -371,7 +371,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 13.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 13.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -388,7 +388,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 13.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 13.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -405,7 +405,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 13.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 13.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -422,7 +422,7 @@
                     "cores": 6,
                     "ram": "3 GB"
                 },
-                "operatingSystems": ["iOS 13.4", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 13.4", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -439,7 +439,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 14.2", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 14.2", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -456,7 +456,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 14.1", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 14.1", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -473,7 +473,7 @@
                     "cores": 6,
                     "ram": "6 GB"
                 },
-                "operatingSystems": ["iOS 14.1", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 14.1", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -490,7 +490,7 @@
                     "cores": 6,
                     "ram": "6 GB"
                 },
-                "operatingSystems": ["iOS 14.2", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 14.2", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -507,7 +507,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 15.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 15.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -524,7 +524,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 15.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 15.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -541,7 +541,7 @@
                     "cores": 6,
                     "ram": "6 GB"
                 },
-                "operatingSystems": ["iOS 15.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 15.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -558,7 +558,7 @@
                     "cores": 6,
                     "ram": "6 GB"
                 },
-                "operatingSystems": ["iOS 15.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 15.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -575,7 +575,7 @@
                     "cores": 6,
                     "ram": "4 GB"
                 },
-                "operatingSystems": ["iOS 15.4", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 15.4", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -592,7 +592,7 @@
                     "cores": 6,
                     "ram": "6 GB"
                 },
-                "operatingSystems": ["iOS 16.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 16.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -609,7 +609,7 @@
                     "cores": 6,
                     "ram": "6 GB"
                 },
-                "operatingSystems": ["iOS 16.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 16.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -626,7 +626,7 @@
                     "cores": 6,
                     "ram": "6 GB"
                 },
-                "operatingSystems": ["iOS 16.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 16.0", "iOS 17.x (actuel)"]
             }
         },
         {
@@ -643,7 +643,75 @@
                     "cores": 6,
                     "ram": "6 GB"
                 },
-                "operatingSystems": ["iOS 16.0", "iOS 16.x (actuel)"]
+                "operatingSystems": ["iOS 16.0", "iOS 17.x (actuel)"]
+            }
+        },
+        {
+            "id": 39,
+            "name": "iPhone 15",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14.png",
+            "details": {
+                "fullScreenImageURL": "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-color-lineup-230912_big.jpg.large_2x.jpg",
+                "year": "2023",
+                "storageCapacities": ["128 GB", "256 GB", "512 GB"],
+                "chip": {
+                    "name": "Apple A16 Bionic",
+                    "architecture": "64 bits",
+                    "cores": 6,
+                    "ram": "6 GB"
+                },
+                "operatingSystems": ["iOS 17.0", "iOS 17.x (actuel)"]
+            }
+        },
+        {
+            "id": 40,
+            "name": "iPhone 15 Plus",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14Plus.png",
+            "details": {
+                "fullScreenImageURL": "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-color-lineup-230912_big.jpg.large_2x.jpg",
+                "year": "2023",
+                "storageCapacities": ["128 GB", "256 GB", "512 GB"],
+                "chip": {
+                    "name": "Apple A16 Bionic",
+                    "architecture": "64 bits",
+                    "cores": 6,
+                    "ram": "6 GB"
+                },
+                "operatingSystems": ["iOS 17.0", "iOS 17.x (actuel)"]
+            }
+        },
+        {
+            "id": 41,
+            "name": "iPhone 15 Pro",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14Pro.png",
+            "details": {
+                "fullScreenImageURL": "https://www.apple.com/v/iphone-15-pro/c/images/specs/hero_iphone_pro_max__bsan8nevcgty_large_2x.jpg",
+                "year": "2023",
+                "storageCapacities": ["128 GB", "256 GB", "512 GB", "1 TB"],
+                "chip": {
+                    "name": "Apple A17 Pro",
+                    "architecture": "64 bits",
+                    "cores": 6,
+                    "ram": "8 GB"
+                },
+                "operatingSystems": ["iOS 17.0", "iOS 17.x (actuel)"]
+            }
+        },
+        {
+            "id": 42,
+            "name": "iPhone 15 Pro Max",
+            "imageURL": "https://raw.githubusercontent.com/Kous92/iPhone-data-test-json/main/iPhone14ProMax.png",
+            "details": {
+                "fullScreenImageURL": "https://www.apple.com/v/iphone-15-pro/c/images/specs/hero_iphone_pro__c9kj8iil656q_large_2x.jpg",
+                "year": "2023",
+                "storageCapacities": ["256 GB", "512 GB", "1 TB"],
+                "chip": {
+                    "name": "Apple A17 Pro",
+                    "architecture": "64 bits",
+                    "cores": 6,
+                    "ram": "8 GB"
+                },
+                "operatingSystems": ["iOS 17.0", "iOS 17.x (actuel)"]
             }
         }
     ]
